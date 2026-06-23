@@ -1,0 +1,10 @@
+2026-06-23 17:22:57,059 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-23 17:22:57,059 - [33mPress CTRL+C to quit[0m
+2026-06-23 17:22:57,061 -  * Restarting with stat
+2026-06-23 17:22:59,549 -  * Debugger is active!
+2026-06-23 17:22:59,552 -  * Debugger PIN: 132-505-948
+2026-06-23 17:23:10,485 - Prediction=0, Amount=500.0, CC=1234567890123456
+2026-06-23 17:23:10,485 - 127.0.0.1 - - [23/Jun/2026 17:23:10] "POST /predict HTTP/1.1" 200 -
+2026-06-23 17:23:12,921 - Prediction=0, Amount=500.0, CC=1234567890123456
+2026-06-23 17:23:12,921 - 127.0.0.1 - - [23/Jun/2026 17:23:12] "POST /predict HTTP/1.1" 200 -
